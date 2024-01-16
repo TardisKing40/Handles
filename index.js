@@ -4,9 +4,9 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBit
 import { getGptResponse } from './chatgpt.js';
 import ms from 'ms';
 
-const whitelistedUsers = [
-    // '275015570284478466'
-];
+// const whitelistedUsers = [
+//     '275015570284478466'
+// ];
 
 import dotenv from 'dotenv';
 dotenv.config();

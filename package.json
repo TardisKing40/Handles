@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "type": "module",
   "dependencies": {
     "chatgpt": "^5.2.5",
