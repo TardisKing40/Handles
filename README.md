@@ -5,4 +5,4 @@ Written in javascript using discord.js.
 ## Features
 - [x] Respond to messages
 - [x] Auto moderation
-- [] Raid protection
+- [ ] Raid protection
